@@ -1,0 +1,54 @@
+Rapid Transit
+	A transportation company
+	needs a website
+		splash page with a carousel of big trucks and vans
+	a hiring app
+	an order placing app
+
+Warp Movers
+	needs an inventory system with High-value items list
+	might need a mobile app
+
+Crypto Burger
+	fast food menu system
+	POS
+	pays their employees in a cryptocurrency
+
+Palace of Symmetry
+	new age cult
+	needs to recruit
+	needs an app to host videos and text, since they can’t afford to print materials anymore
+
+128 Items
+	small retail with wholesale prices
+	seeks to avoid cryptic abbreviations on receipts and price tags
+	full list of all of its 128 items
+	the item list will change
+
+Brain Forge
+	private cram school
+	based on board games
+	needs website with splash page of kids learning and board games zoomed in on
+
+Treasure Chest Minerals
+	needs a website with a carousel of images of minerals either raw or in blocks or rolls
+	mineral exchange
+	mining and sales
+	
+Code Depot
+	code book exchange
+
+Word of Mouth
+	Internet studio for social media engagement
+	needs a website with a carousel with pictures of the studio
+
+Programmer Socks
+	Cafe/Gentlemen’s Club with “trap” dancers
+	clock-in system and scheduler to know when your favorite trap is there
+
+Tre Flambe et Pho
+	a restaurant with a trilingual menu
+	website with a carousel with pictures of escargot and pho
+	the restaurant’s menu will change and most likely grow over time
+	
+	
