@@ -18,3 +18,5 @@ reduced or no RNG or lack of perfect information.
 9 stats, three attacks, 3 defenses, and 3 speeds
 
 stats and damage values kept to less than 24 for easy calculation. These can be represented by integer value types.
+
+names of the units are generated, probably from the Japanese syllables since they fit together so well
