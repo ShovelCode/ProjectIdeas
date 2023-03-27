@@ -1,0 +1,20 @@
+Inspired from the Pokemon battle simulators from mIRC bots, NetBattle, Shoddybattle, PokemonOnline, and Pokemon Showdown.
+
+An interface that looks similar to the computer card game Hearthstone.
+
+Players bring a set of 16 units, and take turns building their team. The first player choose one of their 16, and other player then chooses one,
+and so forth until a set of 8 have been chosen.
+
+All 8 of those have 6 moves.
+
+the units can be one, two, or three of 24 types
+
+each move has a type and one of three categories related to the attack, defense, and speed of the 9 stats.
+
+the type chart about weakness and resistance chart is symmetric
+
+reduced or no RNG or lack of perfect information.
+
+9 stats, three attacks, 3 defenses, and 3 speeds
+
+stats and damage values kept to less than 24 for easy calculation. These can be represented by integer value types.
