@@ -1,0 +1,4 @@
+Based on the Salesforce schema, a program that salespeople would use while talking on a phone with potential customers with quotes, orders,
+and shipping addresses.
+
+The business sells hydraulic pumps and motors.
